@@ -1,0 +1,18 @@
+{
+  "name": "Karthik Kumar Bogadi Portfolio",
+  "short_name": "Karthik Portfolio",
+  "description": "Portfolio of Karthik Kumar Bogadi, an aspiring software engineer focused on Java, Spring Boot, REST APIs and AI-powered applications.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/a-favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
