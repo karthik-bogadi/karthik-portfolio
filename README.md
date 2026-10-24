@@ -119,5 +119,6 @@ The included `netlify.toml` provides the deployment configuration.
 **Karthik Kumar Bogadi**
 
 - **GitHub:** https://github.com/karthik-bogadi
+- **Portfolio:** https://karthikportfoli.netlify.app/
 
 Explore my portfolio to learn more about my projects, technical interests, and development journey.
